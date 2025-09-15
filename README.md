@@ -52,13 +52,16 @@
 
 ### 📫 Contact
 <div align="center">
-  <a href="mailto:gmldo2468@gmail.com" target="_blank" rel="noopener noreferrer">
+  <!-- Gmail -->
+  <a href="mailto:gmldo2468@gmail.com?subject=문의드립니다&body=안녕하세요,%20희애님!" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:ab990917@naver.com" target="_blank" rel="noopener noreferrer">
+  <!-- Naver -->
+  <a href="mailto:ab990917@naver.com?subject=문의드립니다&body=안녕하세요,%20희애님!" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
   </a>
 </div>
+
 
 ---
 
